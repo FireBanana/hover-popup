@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+
+#modal-container{
+ background-color: white;
+ position: absolute;
+ pointer-events: none;
+ border-radius: 10px;
+ z-index: 1000;
+ overflow: hidden;
+}
+
+#modal-description{
+    font-weight: 300;
+    padding: 10px;
+    margin: 0;    
+}
+
+.modal-animation{
+    animation-name: popup;
+    animation-duration: 0.3s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes popup{
+    to{opacity: 0;}
+}

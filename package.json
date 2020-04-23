@@ -1,0 +1,11 @@
+{
+  "name": "hover-popup",
+  "version": "1.0.0",
+  "description": "A styled card library",
+  "main": "hover.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owais Akhtar",
+  "license": "MIT"
+}
