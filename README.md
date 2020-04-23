@@ -8,8 +8,8 @@ Hover-Popup is a small javascript library that shows a text popup on your cursor
 Follow these incredibly easy steps to get started:
 
 - Download and save the hover.js and style.css files in your project
-- Include both of these files in your HTML page using <script> and <link>. No need to initialize anything.
-- You need to use a class and a data attribute to get it running. On any item that you wish to show a popup on, **first add the class "modal-interact" on the element and then add an attribute called "data-modaldescription" and you're good to go!
+- Include both of these files in your HTML page using <script> and link. No need to initialize anything.
+- You need to use a class and a data attribute to get it running. On any item that you wish to show a popup on, **first add the class "modal-interact" on the element and then add an attribute called "data-modaldescription" and you're good to go!**
 
 ## Usage example
 
